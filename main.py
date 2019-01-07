@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 # This is a homework assignment on variables.
 """
 I need to list as many attributes as possible for any song that is my favorite.
