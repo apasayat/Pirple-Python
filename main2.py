@@ -19,9 +19,9 @@ def ReleasedYear():
     return releasedYear
 
 
-var1 = Genre()
-var2 = Singer()
-var3 = ReleasedYear()
+var1 = Genre()         #Genre() function will return the value of genre attribute to var1
+var2 = Singer()        #Singer() function will return the value of singer attribute to var2
+var3 = ReleasedYear()  #ReleasedYear() function will return the value of releasedYear attribute to var3
 
 if(var1=="Classic" and var2=="Arijit Singh" and var3==2013):
     b= True
