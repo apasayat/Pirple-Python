@@ -23,11 +23,13 @@ var1 = Genre()         #Genre() function will return the value of genre attribut
 var2 = Singer()        #Singer() function will return the value of singer attribute to var2
 var3 = ReleasedYear()  #ReleasedYear() function will return the value of releasedYear attribute to var3
 
+#Making use of if-else construct 
 if(var1=="Classic" and var2=="Arijit Singh" and var3==2013):
     b= True
 else:
     b=False
 
+#printing the values for more clarity
 print(var1)
 print(var2)
 print(var3)
